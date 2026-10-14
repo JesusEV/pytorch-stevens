@@ -1,0 +1,9 @@
+name: pytorch
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pytorch
+  - torchvision
+  - matplotlib
